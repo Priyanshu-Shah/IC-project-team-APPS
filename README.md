@@ -1,5 +1,7 @@
 # IC-project-team-APPS
-A fun snakes N ladders game with many unique features
+A fun snakes N ladders game with many unique features.
+
+There no need of installing any other basic things required to run terminal based C program.
 
 This is a terminal based Snakes N Ladders game which can be played by two players, the game has various features like biased random dice (meaning the die has different probability of output depending upon the position of a player), roll 6 to start game and symbol denoted custom snakes and ladders.
 
